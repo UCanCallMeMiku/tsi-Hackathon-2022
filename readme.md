@@ -1,6 +1,6 @@
-# Hackathon 2022
+# tsi-Hackathon 2022
 
-Gruppe:
+Group:
 Nico
 Tim
 Christa
